@@ -1,6 +1,10 @@
 # rep_Knime
 
-Basics of Knime
+## Opening the workflows
+
+Import the .knar file
+
+## Basics of Knime
 
 - Basics like importing, filtering and exporting data
 - Basics of plot using tools like JFreeChart
